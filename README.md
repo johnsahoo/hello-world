@@ -6,3 +6,5 @@ This tutorial only focus on git using github as its remote.
 
 This repository is built step by step in the tutorial.
 It now includes steps for github.
+
+This line added to check push command.
